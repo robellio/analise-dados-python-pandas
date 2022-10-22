@@ -1,3 +1,7 @@
+## Demostrando a execução no Google colab
+
+<img src="colab.gif" alt="imagem gif"/>
+
 ## Análise de Dados com Python e Pandas
 
 ### Desafio de projeto realizado no bootcamp Geração Tech da Unimed-BH
@@ -15,7 +19,3 @@ análise de planilhas do Excel e análise exploratória.
 ### Uma das formas de rodar o projeto
 
 - Ter uma conta no Google colab e fazer o upload dos arquivos.
-
-### Demostrando a execução no Google colab
-
-<img src="colab.gif" alt="imagem gif"/>
