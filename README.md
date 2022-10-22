@@ -1,6 +1,4 @@
-## Demostrando a execução no Google colab
-
-<img src="colab.gif" alt="imagem gif"/>
+<img src="colab.gif.gif" alt="imagem gif"/>
 
 ## Análise de Dados com Python e Pandas
 
